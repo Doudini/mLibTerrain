@@ -7,32 +7,32 @@ Currently in Beta Version.
 - https://www.facebook.com/microbot23
 
 
-### About
+#### About
 
 mLibTerrain is a digital asset library for Sidefx Houdini.
 It Contains a Set of Artist Friendly Tools to generate Displacement Maps. 
 They work with Houdini's native toolset.
 
-#### 1. Content
-/otls		- Houdini Digital Assets
-/otls/base	- Base Digital Assets
-/otls/exp	- Unfinished Experimental HDA's
-/otls/grave	- Old Assets
-/gallery	- Set of Galleries for each SOP containing several predefined Settings.
-/examples	- Some Examples
-INSTALL		- Installation Instruction
-LICENSE		- Artist License
+#### Content
+- /otls		- Houdini Digital Assets
+- /otls/base	- Base Digital Assets
+- /otls/exp	- Unfinished Experimental HDA's
+- /otls/grave	- Old Assets
+- /gallery	- Set of Galleries for each SOP containing several predefined Settings.
+- /examples	- Some Examples
+- INSTALL	- Installation Instruction
+- LICENSE	- Artist License
 
 
 #### Tools
 
-- Displacer 		Just a simple VOP to displace based on CD attribute
-- Fractal Noise		Creates a Fractal Noise
-- FractalWithShaper	Creates Fractal Noise with an additional Shaper Option
-- TerrainCometizer01	Let's you create Comet and Asteroid Impacts
-- TerrainCometizer02	Let's you create Comet and Asteroid Impacts
-- Radial Gradient	Simple Artist Friendly Gradients
-- Unified Fractal	A Unified Fractal Noise Version.
+- Displacer, Just a simple VOP to displace based on CD attribute
+- Fractal Noise, Creates a Fractal Noise
+- FractalWithShaper, Creates Fractal Noise with an additional Shaper Option
+- TerrainCometizer01, Let's you create Comet and Asteroid Impacts
+- TerrainCometizer02, Let's you create Comet and Asteroid Impacts
+- Radial Gradient, Simple Artist Friendly Gradients
+- Unified Fractal, A Unified Fractal Noise Version.
 
 
 ### Quick Installation
@@ -40,8 +40,6 @@ LICENSE		- Artist License
 - Download the latest dev-branch (see link above)
 - Extract and move it into your Houdini config directory
 - Append the provided houdini.env example file to your own houdini.env
-
-(Note that the provided env file example is for linux.)
 
 
 ### Installation
@@ -59,8 +57,12 @@ The archive way is the easiest, but using git has additional benefits,
 such as instant updates, easy access to older versions, other development
 branches, etc.
 
+#### 2. Adding it to the Houdini environment
+
+The easiest way to do is to customize your
+<a href="http://www.sidefx.com/docs/current/basics/config_env">houdini.env</a>
+
 
 ### Submit Bugs/Contact:
-All bugs can be reported at bugs@microbot.ch
-If you have any feature request you can contact me at mLib@microbot.ch
-
+I appreciate bug reports, RFEs (Request For Enhancement), or feedback of
+any kind. Feel free to contact me at mLib@microbot.ch
