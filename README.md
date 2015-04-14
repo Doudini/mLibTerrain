@@ -26,13 +26,13 @@ They work with Houdini's native toolset.
 
 #### Tools
 
-- Displacer, Just a simple VOP to displace based on CD attribute
-- Fractal Noise, Creates a Fractal Noise
-- FractalWithShaper, Creates Fractal Noise with an additional Shaper Option
-- TerrainCometizer01, Let's you create Comet and Asteroid Impacts
-- TerrainCometizer02, Let's you create Comet and Asteroid Impacts
-- Radial Gradient, Simple Artist Friendly Gradients
-- Unified Fractal, A Unified Fractal Noise Version.
+- Displacer		- Just a simple VOP to displace based on CD attribute
+- Fractal Noise		- Creates a Fractal Noise
+- FractalWithShaper	- Creates Fractal Noise with an additional Shaper Option
+- TerrainCometizer01	- Let's you create Comet and Asteroid Impacts
+- TerrainCometizer02 	- Let's you create Comet and Asteroid Impacts
+- Radial Gradient	- Simple Artist Friendly Gradients
+- Unified Fractal	- A Unified Fractal Noise Version.
 
 
 ### Quick Installation
