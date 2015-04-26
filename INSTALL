@@ -1,7 +1,7 @@
 #INSTALLATION GUIDE
 #Unfinished Document / mLib Version 0.0.1 - Beta
 
-#1. Open a New Shell Window. cd to the Directory you want to Install mLibTerrain OTL's and HDA's. 
+#1. Open Terminal. cd to the Directory you want to Install mLibTerrain OTL's and HDA's. 
 #2. git clone https://github.com/Doudini/mLibTerrain.git will copy the Official Release.
 #3. Use git 
 #4. Edit your houdini.env in ~/houdini14.0/ and add following lines:
