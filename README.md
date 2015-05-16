@@ -11,7 +11,7 @@ Currently in Beta Version.
 
 mLibTerrain is a digital asset library for Sidefx Houdini.
 It Contains a Set of Artist Friendly Tools to generate Displacement Maps. 
-They work with Houdini's native toolset.
+
 
 #### Content
 - /otls		- Houdini Digital Assets
@@ -66,3 +66,8 @@ The easiest way to do is to customize your
 ### Submit Bugs/Contact:
 I appreciate bug reports, RFEs (Request For Enhancement), or feedback of
 any kind. Feel free to contact me at mLib@microbot.ch
+
+
+### qLib:
+Please also have a look at the famous qLib for Houdini at https://github.com/qLab/qLib
+It contains a lot of awesome Tools. Thanks to them I could make this Readme. ;)
